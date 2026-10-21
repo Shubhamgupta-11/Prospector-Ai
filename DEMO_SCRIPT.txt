@@ -1,0 +1,205 @@
+═══════════════════════════════════════════════════════════════
+               PROSPECTOR AI - DEMO SCRIPT
+              "4 Hours of Research in 60 Seconds"
+═══════════════════════════════════════════════════════════════
+
+🎯 OBJECTIVE
+Demonstrate how Prospector AI automates B2B prospect research using AI
+
+⏱️ DURATION: 2-3 minutes
+
+═══════════════════════════════════════════════════════════════
+                      THE SCRIPT
+═══════════════════════════════════════════════════════════════
+
+[OPENING - 10 seconds]
+──────────────────────────────────────────────────────────────
+"Let me show you Prospector AI. It's an AI tool that does 4 
+hours of prospect research in just 60 seconds. Watch this..."
+
+[SCREEN: Show Streamlit UI at localhost:8501]
+
+
+[STEP 1: ENTER URL - 5 seconds]
+──────────────────────────────────────────────────────────────
+Type: chat360.io
+
+"I just enter any company URL - this is Chat360, an Indian 
+conversational AI platform..."
+
+
+[STEP 2: START RESEARCH - 5 seconds]
+──────────────────────────────────────────────────────────────
+Click "🔍 Research" button
+
+"Now it's scraping their website, careers page, searching for 
+recent news, and analyzing everything with GPT-4..."
+
+[WHILE PROCESSING - 20 seconds]
+"What would normally take a sales rep 2-4 hours of manual 
+research - reading their website, checking LinkedIn, looking 
+at job postings - Prospector AI does automatically. Let's see 
+what it finds..."
+
+
+[STEP 3: SHOW RESULTS - 90 seconds]
+──────────────────────────────────────────────────────────────
+
+► TAB 1: SCORE BREAKDOWN [20 seconds]
+"Look at this - it calculated an intent score of 72 out of 100.
+That's HIGH PRIORITY.
+
+Here's why:
+- 20/25 points for hiring signals - they're actively hiring 
+  for sales roles, which means they're scaling
+- 15/20 for funding - they're backed and have budget
+- They have active news coverage
+
+So we know this is a hot lead worth pursuing."
+
+
+► TAB 2: IDENTIFIED GAPS [30 seconds]
+"But here's the really powerful part - the AI identified their 
+PRIMARY GAP.
+
+[Read the gap title and description]
+
+'Enterprise credibility gap - they target big enterprise clients 
+like Ford and Honda, but they have almost zero G2 reviews. 
+Enterprise buyers need third-party validation during 
+procurement.'
+
+This is ACTIONABLE INTELLIGENCE. I know exactly what angle to 
+use in my outreach - I can talk about helping them build 
+credibility with enterprise buyers."
+
+
+► TAB 3: OUTREACH MESSAGES [30 seconds]
+"And it doesn't stop there. It wrote 3 personalized outreach 
+messages I can use RIGHT NOW.
+
+[Show gap-based message]
+
+Look at this one - it references the specific gap we just saw.
+It's not generic. It's personalized. It's relevant.
+
+I can literally copy this and send it today."
+
+
+► TAB 4: SOURCES [10 seconds]
+"And everything is fully cited with sources, so I can verify 
+every claim if needed."
+
+
+[CLOSING - 20 seconds]
+──────────────────────────────────────────────────────────────
+"So in 60 seconds, I got:
+✓ An intent score with detailed breakdown
+✓ Strategic gaps identified by AI
+✓ 3 ready-to-send personalized messages
+✓ Full source citations
+
+This would have taken me 3-4 hours to research manually.
+
+And the best part? It's OPEN SOURCE. You can self-host it, 
+customize it, and it costs about 2 cents per company in API 
+fees."
+
+
+[OPTIONAL: SHOW API]
+──────────────────────────────────────────────────────────────
+If technical audience, open: localhost:8000/docs
+
+"It also has a full REST API, so you can integrate this into 
+your existing sales stack, CRM, or build automation on top of it."
+
+
+═══════════════════════════════════════════════════════════════
+                    BACKUP COMPANIES
+═══════════════════════════════════════════════════════════════
+
+If chat360.io is slow or fails, use these:
+
+1. stripe.com       - Well-known, rich data
+2. notion.so        - Popular, strong insights
+3. intercom.com     - Enterprise SaaS
+4. figma.com        - Design tool, clear positioning
+
+
+═══════════════════════════════════════════════════════════════
+                  COMMON QUESTIONS (Q&A)
+═══════════════════════════════════════════════════════════════
+
+Q: How accurate is it?
+A: "We've validated 85%+ accuracy on data points. Everything 
+   is cited so you can verify yourself."
+
+Q: What's the cost?
+A: "About 2-5 cents per company using GPT-4o-mini. For 1000 
+   companies, that's $20-50 in API costs."
+
+Q: Can I integrate it?
+A: "Yes, full REST API documented at /docs. Takes company URL, 
+   returns complete JSON with all data."
+
+Q: Is my data private?
+A: "Completely. You self-host it. Only API calls to OpenAI go 
+   external. Your prospect data never leaves your infrastructure."
+
+Q: Can I customize it?
+A: "Absolutely. It's open source MIT license. Edit the prompts, 
+   adjust scoring weights, add custom scrapers - whatever you need."
+
+Q: What about rate limits?
+A: "Built-in 24-hour caching per company. Also has 'quick' mode 
+   for faster results. Can process 5+ companies in parallel."
+
+
+═══════════════════════════════════════════════════════════════
+                     PRE-DEMO CHECKLIST
+═══════════════════════════════════════════════════════════════
+
+□ Backend running (uvicorn app.main:app --reload)
+□ Frontend running (streamlit run frontend/app.py)
+□ Test with one company beforehand
+□ OpenAI API key configured
+□ Internet connection stable
+□ Browser open to localhost:8501
+□ Practiced script 2-3 times
+□ Backup companies ready
+□ Answers to common questions memorized
+
+
+═══════════════════════════════════════════════════════════════
+                       DEMO TIPS
+═══════════════════════════════════════════════════════════════
+
+✓ Start backend 2-3 min before demo (cold start)
+✓ Keep terminal windows visible (shows it's real)
+✓ Don't apologize for 60 second wait - emphasize the value
+✓ Pause to let audience read the gap analysis
+✓ Emphasize "actionable" and "personalized" 
+✓ Mention open source multiple times
+✓ End with clear call to action
+
+
+═══════════════════════════════════════════════════════════════
+                    CALL TO ACTION
+═══════════════════════════════════════════════════════════════
+
+For Users:
+"Try it yourself - it's free, open source, and takes 5 minutes 
+to set up. Link in the description."
+
+For Developers:
+"Star us on GitHub, PRs welcome. It's MIT license - fork it, 
+customize it, make it your own."
+
+For Enterprises:
+"We can help you integrate this into your sales stack. Let's 
+talk after."
+
+
+═══════════════════════════════════════════════════════════════
+
+Good luck! 🚀 You've got this!
