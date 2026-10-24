@@ -130,5 +130,65 @@
     "recommendation": "HIGH PRIORITY",
     "research_time": 45.69,
     "cost": 0.02
+  },
+  {
+    "id": "res_1792602209",
+    "timestamp": "2026-10-21T22:34:04.595474",
+    "company_name": "Stripe",
+    "company_url": "stripe.com",
+    "industry": "SaaS / Software",
+    "location": "San Francisco",
+    "intent_score": 82,
+    "recommendation": "HIGH PRIORITY",
+    "research_time": 35.13,
+    "cost": 0.02
+  },
+  {
+    "id": "res_1792662104",
+    "timestamp": "2026-10-22T15:13:02.999682",
+    "company_name": "Stripe",
+    "company_url": "stripe.com",
+    "industry": "SaaS / Software",
+    "location": "San Francisco",
+    "intent_score": 67,
+    "recommendation": "MEDIUM PRIORITY",
+    "research_time": 78.27,
+    "cost": 0.02
+  },
+  {
+    "id": "res_1792666130",
+    "timestamp": "2026-10-22T16:20:50.780337",
+    "company_name": "Stripe",
+    "company_url": "stripe.com",
+    "industry": "SaaS / Software",
+    "location": "San Francisco",
+    "intent_score": 82,
+    "recommendation": "HIGH PRIORITY",
+    "research_time": 120.01,
+    "cost": 0.02
+  },
+  {
+    "id": "res_1792666250",
+    "timestamp": "2026-10-22T16:22:50.253464",
+    "company_name": "Stripe",
+    "company_url": "stripe.com",
+    "industry": "SaaS / Software",
+    "location": "San Francisco",
+    "intent_score": 82,
+    "recommendation": "HIGH PRIORITY",
+    "research_time": 119.45,
+    "cost": 0.02
+  },
+  {
+    "id": "res_1792666383",
+    "timestamp": "2026-10-22T16:24:31.090453",
+    "company_name": "Stripe",
+    "company_url": "stripe.com",
+    "industry": "SaaS / Software",
+    "location": "San Francisco",
+    "intent_score": 82,
+    "recommendation": "HIGH PRIORITY",
+    "research_time": 87.47,
+    "cost": 0.02
   }
 ]
